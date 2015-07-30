@@ -1,0 +1,1 @@
+This is a repository for all exercises and projects completed during The Iron Yard's AIR Rails Room Meetup.
